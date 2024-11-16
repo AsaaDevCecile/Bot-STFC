@@ -1,3 +1,4 @@
+// Tic TacToe = Morpion
 module.exports = {
     startTicTacToeGame(message) {
         const grid = [['-', '-', '-'], ['-', '-', '-'], ['-', '-', '-']];
