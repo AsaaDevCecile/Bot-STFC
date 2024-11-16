@@ -1,3 +1,4 @@
+// Devine le nombre
 module.exports = {
     startGuessNumberGame(message) {
         const numberToGuess = Math.floor(Math.random() * 100) + 1;
