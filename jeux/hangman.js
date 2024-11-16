@@ -1,3 +1,4 @@
+// Jeux du pendu
 module.exports = {
     startHangmanGame(message) {
         const words = ['javascript', 'discord', 'programmation', 'bot'];
