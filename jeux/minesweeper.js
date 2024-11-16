@@ -1,3 +1,4 @@
+// minesweeper = démineur
 module.exports = {
     startMinesweeperGame(message) {
         const size = 5;
